@@ -1,6 +1,6 @@
 # VBScript package for Sublime Text 2
 
-VBScript syntax highlight
+VBScript syntax highlight. Original author/site at http://svn.textmate.org/trunk/Bundles/ASP_vb_NET.tmbundle/
 
 ## Installation
 
