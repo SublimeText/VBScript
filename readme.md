@@ -1,6 +1,6 @@
 # VBScript package for Sublime Text 2
 
-VBScript syntax highlight. Original author/site at http://svn.textmate.org/trunk/Bundles/ASP_vb_NET.tmbundle/
+VBScript syntax highlight. Original author is [Thomas Aylott](http://svn.textmate.org/trunk/Bundles/ASP_vb_NET.tmbundle/).
 
 ## Installation
 
@@ -10,7 +10,7 @@ If you are a git user, the best way to install this bundle and keep up to date i
 
 Go to your Sublime Text 2 `Packages` directory and clone the repository using the command below:
 
-    git clone https://github.com/jsadeli/SublimeText-VBScript "VBScript"
+    git clone https://github.com/SublimeText/VBScript "VBScript"
 
 ### Download Manually
 
