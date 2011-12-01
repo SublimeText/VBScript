@@ -2,6 +2,11 @@
 
 VBScript syntax highlight. Original author is [Thomas Aylott](http://svn.textmate.org/trunk/Bundles/ASP_vb_NET.tmbundle/).
 
+## Screenshots
+
+![Espresso Soda](http://github.com/SublimeText/VBScript/raw/master/screenshots/espresso-soda.png)
+![Monokai Soda](http://github.com/SublimeText/VBScript/raw/master/screenshots/monokai-soda.png)
+
 ## Installation
 
 If you are a git user, the best way to install this bundle and keep up to date is to clone the repo directly into your `Packages` directory in the Sublime Text 2 application settings area.
