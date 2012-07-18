@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
 Do
-	$1
-Loop ${2:While/Until} ${3:statement}
+	$0
+Loop ${1:While/Until} ${2:statement}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>do</tabTrigger>

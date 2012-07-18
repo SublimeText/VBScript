@@ -10,7 +10,7 @@ Class ${1:${TM_FILENAME/(.*?)(\..+)/$1/}}
 		' Called automatically when all references to class instance are removed
 	End Sub
 
-	$2
+	$0
 
 End Class
 ]]></content>

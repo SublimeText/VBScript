@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 Function $1 ${2:($3)}
-	$4
+	$0
 End Function
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

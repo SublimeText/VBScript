@@ -5,7 +5,7 @@
     <description>If Condition</description>
     <content><![CDATA[
 If ${1:True} Then
-	${2}
+	$0
 End If
 ]]></content>
 </snippet>
