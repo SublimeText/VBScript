@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+Class ${1:${TM_FILENAME/(.*?)(\..+)/$1/}}
+
+	Private Sub Class_Initialize
+		' Called automatically when class is created
+	End Sub
+
+	Private Sub Class_Terminate
+		' Called automatically when all references to class instance are removed
+	End Sub
+
+	$0
+
+End Class
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>class</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.vbs</scope>
+	<description>Class</description>
+</snippet>
