@@ -349,7 +349,7 @@
 			<array>
 				<dict>
 					<key>include</key>
-					<string>source.asp.vb.net</string>
+					<string>source.vbs</string>
 				</dict>
 			</array>
 		</dict>
