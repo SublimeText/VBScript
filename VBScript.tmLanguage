@@ -234,7 +234,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>(\$)[a-zA-Z_x7f-xff][a-zA-Z0-9_x7f-xff]*?\b\s*</string>
+			<string>(\$)[a-zA-Z_xf-xff][a-zA-Z0-9_xf-xff]*?\b\s*</string>
 			<key>name</key>
 			<string>variable.other.asp</string>
 		</dict>
@@ -308,7 +308,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(?i:((?&lt;=(\+|=|-|\&amp;|\\|/|&lt;|&gt;|\(|,))\s*\b([a-zA-Z_x7f-xff][a-zA-Z0-9_x7f-xff]*?)\b(?!(\(|\.))|\b([a-zA-Z_x7f-xff][a-zA-Z0-9_x7f-xff]*?)\b(?=\s*(\+|=|-|\&amp;|\\|/|&lt;|&gt;|\(|\)))))</string>
+			<string>(?i:((?&lt;=(\+|=|-|\&amp;|\\|/|&lt;|&gt;|\(|,))\s*\b([a-zA-Z_xf-xff][a-zA-Z0-9_xf-xff]*?)\b(?!(\(|\.))|\b([a-zA-Z_xf-xff][a-zA-Z0-9_xf-xff]*?)\b(?=\s*(\+|=|-|\&amp;|\\|/|&lt;|&gt;|\(|\)))))</string>
 			<key>name</key>
 			<string>variable.other.asp</string>
 		</dict>
