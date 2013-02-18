@@ -258,7 +258,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(?i:\b(Lock|Unlock|SetAbort|SetComplete|BianryRead|AddHeader|AppendToLog|BinaryWrite|Clear|End|Flush|Redirect|Write|CreateObject|HTMLEncode|MapPath|URLEncode|Abandon|Convert|Regex)\b)</string>
+			<string>(?i:\b(Lock|Unlock|SetAbort|SetComplete|BinaryRead|AddHeader|AppendToLog|BinaryWrite|Clear|End|Flush|Redirect|Write|CreateObject|HTMLEncode|MapPath|URLEncode|Abandon|Convert|Regex)\b)</string>
 			<key>name</key>
 			<string>support.function.asp</string>
 		</dict>
