@@ -123,7 +123,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>('|REM)</string>
+			<string>('|Rem)</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>0</key>
