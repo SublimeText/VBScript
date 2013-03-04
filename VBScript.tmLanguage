@@ -139,7 +139,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(?i:\b(If|Then|Else|ElseIf|Else If|End If|While|Wend|For|To|Each|In|Case|Select|End Select|Return|Continue|Do|Until|Loop|Next|With|End With|Exit Do|Exit For|Exit Function|Exit Property|Exit Sub|IIf)\b)</string>
+			<string>(?i:\b(If|Then|Else|ElseIf|Else If|End If|While|Wend|For|To|Each|In|Step|Case|Select|End Select|Return|Continue|Do|Until|Loop|Next|With|End With|Exit Do|Exit For|Exit Function|Exit Property|Exit Sub|IIf)\b)</string>
 			<key>name</key>
 			<string>keyword.control.asp</string>
 		</dict>
