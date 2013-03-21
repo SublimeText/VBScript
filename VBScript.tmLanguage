@@ -175,7 +175,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(?i:\s*\b(Call|Class|Const|Dim|Redim|Function|Sub|Private Sub|Public Sub|End sub|End Function|Set|Let|Get|New|Randomize|Option Explicit|On Error Resume Next|On Error GoTo|ByRef|ByVal|Public Function|Private Function)\b\s*)</string>
+			<string>(?i:\s*\b(Call|Class|Const|Dim|Redim|Function|Sub|Private Sub|Public Sub|End sub|End Function|Set|Let|Get|New|Randomize|Option Explicit|On Error Resume Next|On Error GoTo|ByRef|ByVal|Public Function|Private Function|Preserve)\b\s*)</string>
 			<key>name</key>
 			<string>storage.type.asp</string>
 		</dict>
