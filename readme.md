@@ -1,19 +1,34 @@
-# VBScript package for Sublime Text 2
+# VBScript package for Sublime Text [![Build Status](https://travis-ci.org/SublimeText/VBScript.png?branch=master)](https://travis-ci.org/SublimeText/VBScript)
 
-VBScript syntax highlight. Original author is [Thomas Aylott](http://svn.textmate.org/trunk/Bundles/ASP_vb_NET.tmbundle/).
+This VBScript package for [Sublime Text](http://www.sublimetext.com/) adds:
+- syntax highlighting
+- snippets
+- build configuration
+
+## Credits
+Original author: [Thomas Aylott](http://svn.textmate.org/trunk/Bundles/ASP_vb_NET.tmbundle/).
 
 ## Screenshots
 
-![Espresso Soda](http://github.com/SublimeText/VBScript/raw/master/screenshots/espresso-soda.png)
-![Monokai Soda](http://github.com/SublimeText/VBScript/raw/master/screenshots/monokai-soda.png)
+![Espresso](http://github.com/SublimeText/VBScript/raw/master/screenshots/espresso.png)
+![Monokai](http://github.com/SublimeText/VBScript/raw/master/screenshots/monokai.png)
 
 ## Installation
 
-If you are a git user, the best way to install this bundle and keep up to date is to clone the repo directly into your `Packages` directory in the Sublime Text 2 application settings area.
+There are several ways to install this package.
+
+### Package Control
+
+The easiest way to install this package is through [Package Control](http://wbond.net/sublime_packages/package_control).
+
+* Install [Package Control](http://wbond.net/sublime_packages/package_control/installation)
+* Open the `Command Palette` (`Tools >> Command Palette` or `Ctrl+Shift+P` or `Cmd+Shift+P`).
+* Type `Install Package` and hit return.
+* Type `VBScript` and hit return.
 
 ### Using Git
 
-Go to your Sublime Text 2 `Packages` directory and clone the repository using the command below:
+Go to your Sublime Text `Packages` directory and clone the repository using the command below:
 
     git clone https://github.com/SublimeText/VBScript "VBScript"
 
@@ -21,4 +36,4 @@ Go to your Sublime Text 2 `Packages` directory and clone the repository using th
 
 * Download the files using the GitHub .zip download option
 * Unzip the files and rename the folder to `VBScript`
-* Copy the folder to your Sublime Text 2 `Packages` directory
+* Copy the folder to your Sublime Text `Packages` directory
