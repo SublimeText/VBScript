@@ -117,13 +117,13 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>^\s*((?i:function|sub))\s*([a-zA-Z_]\w*)\s*(\()([^)]*)(\)).*\n?</string>
+			<string>^\s*((?i:function|sub|public sub|private sub|public function|private function))\s*([a-zA-Z_]\w*)\s*(\()([^)]*)(\)).*\n?</string>
 			<key>name</key>
 			<string>meta.function.asp</string>
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>('|Rem\s{1,})</string>
+			<string>('|(?i:Rem)\s{1,})</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>0</key>
