@@ -10,6 +10,9 @@
 		<string>vbe</string>
 		<string>wsf</string>
 		<string>wsc</string>
+		<string>acm</string>
+		<string>acr</string>
+		<string>acf</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>(&lt;(?i:(head|table|div|style|script|ul|ol|form|dl))\b.*?&gt;|\{|^\s*&lt;?%?\s*'?\s*(?i:(sub|private\s+Sub|public\s+Sub|function|if|while|For))\s*.*$)</string>
