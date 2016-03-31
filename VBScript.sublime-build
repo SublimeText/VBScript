@@ -16,6 +16,13 @@
             {
                 "cmd": ["wscript.exe", "$file"]
             }
+        },
+        {
+            "name": "Debug with CScript",
+            "windows":
+            {
+                "cmd": ["cscript.exe", "//x", "//d", "$file"]
+            }
         }
     ]
 }
