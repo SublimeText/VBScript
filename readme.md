@@ -10,8 +10,8 @@ Original author: [Thomas Aylott](http://svn.textmate.org/trunk/Bundles/ASP_vb_NE
 
 ## Screenshots
 
-![Espresso](http://github.com/SublimeText/VBScript/raw/master/screenshots/espresso.png)
-![Monokai](http://github.com/SublimeText/VBScript/raw/master/screenshots/monokai.png)
+![Espresso](https://raw.githubusercontent.com/SublimeText/VBScript/master/screenshots/espresso.png)
+![Monokai](https://raw.githubusercontent.com/SublimeText/VBScript/master/screenshots/monokai.png)
 
 ## Installation
 
