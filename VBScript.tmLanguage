@@ -7,6 +7,8 @@
 	<key>fileTypes</key>
 	<array>
 		<string>vbs</string>
+		<string>vba</string>
+		<string>bas</string>
 		<string>vbe</string>
 		<string>wsf</string>
 		<string>wsc</string>
