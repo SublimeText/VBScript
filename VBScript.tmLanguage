@@ -9,6 +9,8 @@
 		<string>vbs</string>
 		<string>vba</string>
 		<string>bas</string>
+		<string>cls</string>
+		<string>frm</string>
 		<string>vbe</string>
 		<string>wsf</string>
 		<string>wsc</string>
